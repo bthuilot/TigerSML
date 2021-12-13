@@ -1,0 +1,8 @@
+/* valid for and let */
+
+let
+	var a:= 0
+	var b:=100
+in 
+	for i:=0 to b do (a:=a+1;())
+end

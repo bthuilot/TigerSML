@@ -1,0 +1,6 @@
+let
+	var x := 8
+in
+	for i := 1 to x-1 do
+			(x = x * i; x)
+end

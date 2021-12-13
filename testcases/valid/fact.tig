@@ -1,0 +1,8 @@
+/* Computes factorial of 8 */
+let
+	var f := 8
+in
+	(for n:=1 to f do
+			(f = f * n; ());
+			f)
+end
