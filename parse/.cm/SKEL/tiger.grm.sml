@@ -1,2 +1,0 @@
-Skeleton 5
-ae"TigerLrValsFun"i2aä¢Token"gp1c"TOKEN"f2ä¢Symbol"ÿjh2aä¢ParserData"h7aä¢Header"h1aä¢A"gp1d"Absyn"aä¢LrTable"gp2ÿÿ%Caÿgp1ÿbåçğ±ÿ%f6d"Char"Cÿ%d"List"d"General"d"String"d"Array"Nbåçğ±ÿ	d2f1ÿaä¢MlyValue"è0ad"EC"h2ÿ‚bÿ‚9æ±ÿƒad"Actions"h2bÿ‚9f4ÿ%ÿÿ*ÿƒÿƒ$Naä¢Tokens"jÿƒçğ±ã¢Tiger_TOKENS"h2aÿ9gp1c"PARSER_DATA"aÿ„ÿ„
